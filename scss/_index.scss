@@ -1,0 +1,72 @@
+@import url("https://fonts.googleapis.com/css2? family = Roboto: wght @ 300 & display = swap");
+header {
+  background-color: rgba(0, 0, 0, 0.5);
+}
+header h1 {
+  color: white;
+}
+
+.nav-link {
+  color: #ffffff;
+}
+
+.nav-item:hover {
+  transition: all 200ms;
+  transform: scale(1.2);
+  color: #e9f0e9;
+  background-color: #e9f0e9;
+  border-radius: 45%;
+}
+
+.carousel-item > img {
+  max-width: 1920px;
+  max-height: 656px;
+}
+
+h2 {
+  font-size: "Roboto", sans-serif;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+p {
+  margin: 2rem;
+}
+
+footer {
+  padding: 30px 0px;
+  background-image: linear-gradient(to top, #a3cfa3, #c7f0c7);
+}
+footer div {
+  text-align: center;
+}
+footer div h3 {
+  font-size: "Roboto", sans-serif;
+}
+footer div h3 div {
+  padding-top: 1rem;
+}
+
+.iconos {
+  font-size: 2rem;
+}
+
+.iconos--face {
+  color: blue;
+  background-color: #ffffff;
+  border-radius: 25px;
+}
+
+.iconos--insta {
+  color: #ffffff;
+  background: radial-gradient(circle at 33% 100%, #fed373 4%, #f15245 30%, #d92e7f 62%, #9b36b7 85%, #515ecf);
+  border-radius: 30%;
+  position: relative;
+}
+
+.iconos--twit {
+  color: blue;
+}
+
+/*# sourceMappingURL=style.css.map */

@@ -1,0 +1,61 @@
+.contac {
+    padding-top: 10rem;
+}
+
+.formulario {
+    padding-right: 20%;
+    padding-left: 20%;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 3rem;
+}
+
+.boton--contac {
+    border: none;
+    min-width: 180px;
+    height: 50px;
+    padding: 0 30px;
+    background: #0000;
+    color: #fff;
+    display: inline-block;
+    border-radius: 100px;
+    text-decoration: none;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    background: rgb(165, 164, 164);
+    transition: .3s ease all; 
+}
+
+.contactame{
+    justify-content: center;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+
+.contactanos {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    padding-bottom: 3rem;
+}
+
+.datos {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+}
+
+.col {
+    margin-bottom: 1rem;
+}
+.form-floating {
+    margin-bottom: 1rem;
+}
+
+.row {
+    text-align: center;
+}
+

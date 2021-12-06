@@ -1,0 +1,20 @@
+.cuerpoJardin {
+    padding-top: 10rem;
+}
+
+.tarjeta {
+    max-width: 1500px;
+    width: 90%;
+    margin: 0 auto;
+    background-color: #f6f6fe;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    border-radius: 10%;
+}
+
+.tarjeta__imagen {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
