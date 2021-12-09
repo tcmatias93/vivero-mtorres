@@ -13,35 +13,91 @@
     "imagen5 imagen6 imagen7"
     "imagen8 imagen9 imagen7";
     grid-gap: 1rem;
+    filter: grayscale(90%);
 }
 
 .imagen1{
     grid-area: imagen1;
+    border: 3px solid lightgray;
 }   
+
+.imagen1:hover{
+    transition: all 250ms;
+    transform: scale(1.2);
+    filter: grayscale(0);
+}
 
 .imagen2 {
     grid-area: imagen2;
+    border: 3px solid lightgray;
+}
+.imagen2:hover {
+    transition: all 250ms;
+    transform: scale(1.2);
+    filter: grayscale(0);
 }
 .imagen3 {
     grid-area: imagen3;
+    border: 3px solid lightgray;
+}
+.imagen3:hover {
+    transition: all 250ms;
+    transform: scale(1.2);
+    filter: grayscale(0);
 }
 .imagen4 {
     grid-area: imagen4;
+    border: 3px solid lightgray;
+}
+.imagen4:hover{
+    transition: all 250ms;
+    transform: scale(1.2);
+    filter: grayscale(0);
 }
 .imagen5 {
     grid-area: imagen5;
+    border: 3px solid lightgray;
+}
+.imagen5:hover {
+    transition: all 250ms;
+    transform: scale(1.2);
+    filter: grayscale(0);
 }
 .imagen6 {
     grid-area: imagen6;
+    border: 3px solid lightgray;
+}
+.imagen6:hover {
+    transition: all 250ms;
+    transform: scale(1.2);
+    filter: grayscale(0);
 }
 .imagen7 {
     grid-area: imagen7;
+    border: 3px solid lightgray;
+}
+.imagen7:hover {
+    transition: all 250ms;
+    transform: scale(1.2);
+    filter: grayscale(0);
 }
 .imagen8 {
     grid-area: imagen8;
+    border: 3px solid lightgray;
+}
+.imagen8:hover {
+    transition: all 250ms;
+    transform: scale(1.2);
+    filter: grayscale(0);
 }
 .imagen9 {
     grid-area: imagen9;
+    border: 3px solid lightgray;
+}
+.imagen9:hover {
+    transition: all 250ms;
+    transform: scale(1.2);
+    filter: grayscale(0);
 }
 
 .galeria > div {
