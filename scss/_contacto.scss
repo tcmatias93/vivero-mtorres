@@ -39,6 +39,7 @@
     align-items: center;
     justify-content: space-evenly;
     padding-bottom: 3rem;
+    
 }
 
 .datos {
@@ -58,4 +59,15 @@
 .row {
     text-align: center;
 }
+
+.row  {
+    text-align: center;
+    
+}
+.envio {
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
+
 
